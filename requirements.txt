@@ -1,8 +1,8 @@
 pyrogram
 TgCrypto
 pymongo[srv]
-Flask==2.2.2
+Flask==1.1.4
+Werkzeug==1.0.1
 gunicorn==20.1.0
 aiohttp==3.7.4.post0
 wheel 
-werkzeug==1.0.1
